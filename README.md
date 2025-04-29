@@ -9,20 +9,19 @@ Since the server is already deployed, you only need to set up the iOS app locall
 🛠 Steps to Run:
 1. Clone the Repository
    
-  git clone https://github.com/CNPower6/crypto-launch.git
+  - git clone https://github.com/CNPower6/crypto-launch.git
   
-  cd crypto-launch/CryptoLaunchApp
+  - cd crypto-launch/CryptoLaunchApp
 
 3. Install CocoaPods dependencies
-  Make sure you have CocoaPods installed. If you don’t:
-  sudo gem install cocoapods
 
-  Then install the required pods:
-  pod install
+  - Make sure you have CocoaPods installed. If you don’t:
+  - sudo gem install cocoapods
+  - pod install
 
 4. Open the Xcode Project
-  Open the .xcworkspace file (not the .xcodeproj):
-  open CryptoLaunch.xcworkspace
+  - Open the .xcworkspace file (not the .xcodeproj):
+  - open CryptoLaunch.xcworkspace
 
 5. Build and Run
   🛜 Select an iPhone simulator or plug in your real device.
