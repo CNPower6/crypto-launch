@@ -8,7 +8,9 @@ Since the server is already deployed, you only need to set up the iOS app locall
 
 🛠 Steps to Run:
 1. Clone the Repository
+   
   git clone https://github.com/CNPower6/crypto-launch.git
+  
   cd crypto-launch/CryptoLaunchApp
 
 3. Install CocoaPods dependencies
